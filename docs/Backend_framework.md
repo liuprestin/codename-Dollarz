@@ -13,18 +13,22 @@ TODO:
 ### API
 
 Authorization:
-/auth - (REST) , get/post
+
+- /auth - (REST) , get/post
 
 data input:
-/category - (REST) , GET(required for expense) / POST
-/expense - (REST) , POST
+
+- /category - (REST) , GET(required for expense) / POST
+- /expense - (REST) , POST
 
 pull data out (assuming authorization):
-/expensesql - (graphql) - GET
 
-## Libraries implmenting Backend:
+- /expensesql - (graphql) - GET
+
+### Libraries implmenting Backend:
 
 **API etc**
+
 FastApi
 
 - https://fastapi.tiangolo.com/
@@ -48,7 +52,6 @@ strawberry(fastapi integration version) for Graphql
 
 (motor)
 (pydantic)
-
 
 
 **Services**

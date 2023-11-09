@@ -33,6 +33,7 @@ Details:
 - tailwindcss
 
 Details:
+
 - all are contained in one container
 - Debian 12
 
